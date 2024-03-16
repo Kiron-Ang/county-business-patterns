@@ -10,4 +10,5 @@ Here are some resources to learn more about time series analysis:
 - International Journal of Environmental Research Article: www.ncbi.nlm.nih.gov/pmc/articles/PMC7460497
 
 # TODO LIST:
-- Create a .ipynb file to demonstrate this analysis in a more digestible format.
+- Use various machine learning algorithms in Python!
+- Present results in clear manner 
