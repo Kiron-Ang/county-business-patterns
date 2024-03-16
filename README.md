@@ -1,7 +1,8 @@
 # What is this?
 The geographic region in the United States known as the Lower Rio Grande Valley (LRGV) consists of five counties in South Texas: Cameron, Hidalgo, Starr, Willacy, and Zapata. People living in the LRGV often feel that the change that large and wealthy cities in Texas experience happens ten times faster than the change that the small cities and towns in the LRGV undergo. However, although some initiatives have begun to further investigate the LRGV and other similar regions (nimss.org/projects/18897) only a few publications investigate whether economic data truly reflects this sentiment or not.
 
-The dataset and information on the data is available here: www.census.gov/programs-surveys/cbp.html
+Learn more about the County Business Patterns data here: www.census.gov/programs-surveys/cbp/about.html. Data used in this analysis was collected by the United States Census Bureau from 1986 to 2023. Data is available to the public for download here: www.census.gov/programs-surveys/cbp/data/datasets.html. You can also use an API call to obtain the data; more information on that is on this page: www.census.gov/data/developers/data-sets/cbp-zbp/cbp-api.html
+
 
 Here are some resources to learn more about time series analysis:
 - Article from Tableau: www.tableau.com/learn/articles/time-series-analysis
